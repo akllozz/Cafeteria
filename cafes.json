@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "nombre": "Cold Brew"
+    },
+    {
+      "id": 2,
+      "nombre": "Cappucchino"
+    },
+    {
+      "id": 3,
+      "nombre": "Mocacchino"
+    },
+    {
+      "id": 4,
+      "nombre": "Americano"
+    }
+  ]
